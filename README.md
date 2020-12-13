@@ -5,3 +5,5 @@ https://chemistryinsight.netlify.com/
 
 # Atualizações:
 Futuramente irei disponibilizar uma API para os requests de elementos
+
+# hmmm bruhhh
